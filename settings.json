@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "rust.rustup": {
+        "toolchain": "nightly-x86_64-apple-darwin",
+        "nightlyToolchain": "nightly-x86_64-apple-darwin"
+    },
+    "rust.mode": "rls",
+    "rust.rls": {
+        "useRustfmt": true
+    },
+    "workbench.colorTheme": "Quiet Light",
+    "editor.renderWhitespace": "boundary",
+    "files.autoSave": "onWindowChange",
+    "editor.roundedSelection": true,
+    "editor.find.autoFindInSelection": true,
+    "editor.emptySelectionClipboard": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "workbench.editor.showTabs": false
+}
